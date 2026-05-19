@@ -1,4 +1,5 @@
-# terraform-aws-s3-bucket-sc# AWS S3 Bucket Module
+# terraform-aws-s3-bucket-sc
+# AWS S3 Bucket Module
 
 A simple Terraform module for creating an S3 bucket.
 
